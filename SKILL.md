@@ -4,7 +4,7 @@ description: "将客户发来的文案、草稿或卖点，改写为符合自媒
 license: MIT
 compatibility: "无需脚本或网络依赖，仅使用模型文本能力；建议在支持 Agent Skills 的客户端中使用，输出语言跟随用户。"
 metadata:
-  author: TODO
+  author: thy660
   version: "0.1.0"
   agent_created: true
 ---
